@@ -1,12 +1,12 @@
-#Robot Takeover
+# Robot Takeover
 
-###Challenge
+### Challenge
 You know what it is, you know what to do... but can you handle the twist?
 
-###Url
+### Url
 `http://challenge.ctf.games:30095/`
 
-###Solution
+### Solution
 
 1. Navigate to `robots.txt`: `http://challenge.ctf.games:30095/robots.txt`
 2. Examine the response that contains dissalowed files per user agent.
