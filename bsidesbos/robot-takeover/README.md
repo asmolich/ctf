@@ -3,11 +3,13 @@
 ### Challenge
 You know what it is, you know what to do... but can you handle the twist?
 
-### Url
+### Category
+Scripting
+
+### Connection Method
 `http://challenge.ctf.games:30095/`
 
 ### Solution
-
 1. Navigate to `robots.txt`: `http://challenge.ctf.games:30095/robots.txt`
 2. Examine the response that contains dissalowed files per user agent.
 ```
